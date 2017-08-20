@@ -1,7 +1,0 @@
-https://codereview.stackexchange.com/questions/151928/random-password-cracker-using-brute-force
-
-https://stackoverflow.com/questions/11747254/python-brute-force-algorithm
-
-https://www.reddit.com/r/learnpython/comments/267xg5/password_cracker/
-
-https://stackoverflow.com/questions/40269605/how-to-create-a-bruteforce-password-cracker-for-alphabetical-and-alphanumerical
